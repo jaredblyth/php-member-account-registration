@@ -6,7 +6,7 @@
 
 
 <head>
-<!--This dynamic website template was written by Big Jre in 2012. It incorporates HTML, CSS, Javascript and PHP. Please visit my site at www.jaredblyth.com for more information.-->
+<!--This dynamic website template was written by Jared Blyth in 2012. It incorporates HTML, CSS, Javascript and PHP. Please visit my site at www.jaredblyth.com for more information.-->
 
 
 <?php include("stylesheet.php"); ?>
@@ -218,8 +218,8 @@ include("mysql_connect.php");
 
 		
 		// Send the email:
-		$body = "Dear {$_POST['first_name']}, Thank you for opening an account with Big Jre! Your username is '{$_POST['email']}'.";
-		mail($_POST['email'], 'Account Registration Confirmation', $body, 'From: admin@bigjre.com');
+		$body = "Dear {$_POST['first_name']}, Thank you for opening an account with XXXX! Your username is '{$_POST['email']}'.";
+		mail($_POST['email'], 'Account Registration Confirmation', $body, 'From: admin@xxxxx.com');
 	
 
 

@@ -4,7 +4,7 @@
 
 
 <head>
-<!--This dynamic website template was written by Big Jre in 2012. It incorporates HTML, CSS, Javascript and PHP. Please visit my site at www.jaredblyth.com for more information.-->
+<!--This dynamic website template was written by Jared Blyth in 2012. It incorporates HTML, CSS, Javascript and PHP. Please visit my site at www.jaredblyth.com for more information.-->
 
 
 <?php include("stylesheet.php"); ?>
